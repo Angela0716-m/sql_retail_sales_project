@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Retail Sales Analysis - SQL Project</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2, h3, h4 { color: #2c3e50; }
-        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-        code { font-family: Consolas, monospace; color: #e74c3c; }
-        ul { margin-left: 20px; }
-        .query { margin-bottom: 20px; }
-        .insight { background-color: #ecf0f1; padding: 10px; border-left: 4px solid #3498db; margin-bottom: 10px; }
-    </style>
-</head>
-<body>
-
 <h1>Retail Sales Analysis – SQL Project</h1>
 
 <p><strong>Author:</strong> Angela Mokhele</p>
